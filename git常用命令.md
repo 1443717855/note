@@ -1,16 +1,16 @@
 
 
 ## 克隆项目 
-- git clone 项目地址
+
+ - git clone 项目地址
 
 ## 拉取项目  
 - git pull 
 
-## 上传项目 
-- git push 
+## 上传项目 git push 
 
 ## 新建分支 
-- git branch 分支名
+ - git branch 分支名
 
 ## 切换分支 
 - git checkout 分支名
